@@ -91,7 +91,10 @@
      <Compile Include="Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <None Include="Assets\RPG Pack\Enviroment\License.txt" />
+     <None Include="Assets\RPG Pack\Enviroment\Spritesheet\spritesheetInfo.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\RPG Pack\characters\Spritesheet\spritesheetInfo.txt" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>F:/Unity Projects/2D-RPG/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
