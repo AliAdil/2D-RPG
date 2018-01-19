@@ -1,0 +1,1582 @@
+fileFormatVersion: 2
+guid: 6856fb31710c929489cbca4433a97442
+timeCreated: 1516321778
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roguelikeChar_transparent5_0
+    21300002: roguelikeChar_transparent5_1
+    21300004: roguelikeChar_transparent5_2
+    21300006: roguelikeChar_transparent5_3
+    21300008: roguelikeChar_transparent5_4
+    21300010: roguelikeChar_transparent5_5
+    21300012: roguelikeChar_transparent5_6
+    21300014: roguelikeChar_transparent5_7
+    21300016: roguelikeChar_transparent5_8
+    21300018: roguelikeChar_transparent5_9
+    21300020: roguelikeChar_transparent5_10
+    21300022: roguelikeChar_transparent5_11
+    21300024: roguelikeChar_transparent5_12
+    21300026: roguelikeChar_transparent5_13
+    21300028: roguelikeChar_transparent5_14
+    21300030: roguelikeChar_transparent5_15
+    21300032: roguelikeChar_transparent5_16
+    21300034: roguelikeChar_transparent5_17
+    21300036: roguelikeChar_transparent5_18
+    21300038: roguelikeChar_transparent5_19
+    21300040: roguelikeChar_transparent5_20
+    21300042: roguelikeChar_transparent5_21
+    21300044: roguelikeChar_transparent5_22
+    21300046: roguelikeChar_transparent5_23
+    21300048: roguelikeChar_transparent5_24
+    21300050: roguelikeChar_transparent5_25
+    21300052: roguelikeChar_transparent5_26
+    21300054: roguelikeChar_transparent5_27
+    21300056: roguelikeChar_transparent5_28
+    21300058: roguelikeChar_transparent5_29
+    21300060: roguelikeChar_transparent5_30
+    21300062: roguelikeChar_transparent5_31
+    21300064: roguelikeChar_transparent5_32
+    21300066: roguelikeChar_transparent5_33
+    21300068: roguelikeChar_transparent5_34
+    21300070: roguelikeChar_transparent5_35
+    21300072: roguelikeChar_transparent5_36
+    21300074: roguelikeChar_transparent5_37
+    21300076: roguelikeChar_transparent5_38
+    21300078: roguelikeChar_transparent5_39
+    21300080: roguelikeChar_transparent5_40
+    21300082: roguelikeChar_transparent5_41
+    21300084: roguelikeChar_transparent5_42
+    21300086: roguelikeChar_transparent5_43
+    21300088: roguelikeChar_transparent5_44
+    21300090: roguelikeChar_transparent5_45
+    21300092: roguelikeChar_transparent5_46
+    21300094: roguelikeChar_transparent5_47
+    21300096: roguelikeChar_transparent5_48
+    21300098: roguelikeChar_transparent5_49
+    21300100: roguelikeChar_transparent5_50
+    21300102: roguelikeChar_transparent5_51
+    21300104: roguelikeChar_transparent5_52
+    21300106: roguelikeChar_transparent5_53
+    21300108: roguelikeChar_transparent5_54
+    21300110: roguelikeChar_transparent5_55
+    21300112: roguelikeChar_transparent5_56
+    21300114: roguelikeChar_transparent5_57
+    21300116: roguelikeChar_transparent5_58
+    21300118: roguelikeChar_transparent5_59
+    21300120: roguelikeChar_transparent5_60
+    21300122: roguelikeChar_transparent5_61
+    21300124: roguelikeChar_transparent5_62
+    21300126: roguelikeChar_transparent5_63
+    21300128: roguelikeChar_transparent5_64
+    21300130: roguelikeChar_transparent5_65
+    21300132: roguelikeChar_transparent5_66
+    21300134: roguelikeChar_transparent5_67
+    21300136: roguelikeChar_transparent5_68
+    21300138: roguelikeChar_transparent5_69
+    21300140: roguelikeChar_transparent5_70
+    21300142: roguelikeChar_transparent5_71
+    21300144: roguelikeChar_transparent5_72
+    21300146: roguelikeChar_transparent5_73
+    21300148: roguelikeChar_transparent5_74
+    21300150: roguelikeChar_transparent5_75
+    21300152: roguelikeChar_transparent5_76
+    21300154: roguelikeChar_transparent5_77
+    21300156: roguelikeChar_transparent5_78
+    21300158: roguelikeChar_transparent5_79
+    21300160: roguelikeChar_transparent5_80
+    21300162: roguelikeChar_transparent5_81
+    21300164: roguelikeChar_transparent5_82
+    21300166: roguelikeChar_transparent5_83
+    21300168: roguelikeChar_transparent5_84
+    21300170: roguelikeChar_transparent5_85
+    21300172: roguelikeChar_transparent5_86
+    21300174: roguelikeChar_transparent5_87
+    21300176: roguelikeChar_transparent5_88
+    21300178: roguelikeChar_transparent5_89
+    21300180: roguelikeChar_transparent5_90
+    21300182: roguelikeChar_transparent5_91
+    21300184: roguelikeChar_transparent5_92
+    21300186: roguelikeChar_transparent5_93
+    21300188: roguelikeChar_transparent5_94
+    21300190: roguelikeChar_transparent5_95
+    21300192: roguelikeChar_transparent5_96
+    21300194: roguelikeChar_transparent5_97
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 107
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 153
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 141
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 141
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 140
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 140
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 141
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 141
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 136
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 124
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 124
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 119
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 124
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 124
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 119
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 119
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 107
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 106
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 102
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 90
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 90
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 90
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 85
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 73
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 72
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 72
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 73
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 53
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 53
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 53
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_63
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 56
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_69
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 36
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 36
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 38
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_77
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_80
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 22
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_90
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_92
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_93
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_95
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roguelikeChar_transparent5_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
